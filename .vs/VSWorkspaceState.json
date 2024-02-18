@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Attendence system",
+    "\\Attendence system\\Attendence System"
   ],
+  "SelectedNode": "\\Attendence system\\Attendence System\\login.Designer.cs",
   "PreviewInSolutionExplorer": false
 }
