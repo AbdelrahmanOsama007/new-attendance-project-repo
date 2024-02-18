@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\newprocjectattendance\\new-attendance-project-repo\\WinFormsApp1\\WinFormsApp1\\attendence.csproj",
-      "projectName": "attendence",
-      "projectPath": "D:\\newprocjectattendance\\new-attendance-project-repo\\WinFormsApp1\\WinFormsApp1\\attendence.csproj",
+      "projectUniqueName": "D:\\newprocjectattendance\\new-attendance-project-repo\\attendence system\\attendence system\\attendence system.csproj",
+      "projectName": "attendence system",
+      "projectPath": "D:\\newprocjectattendance\\new-attendance-project-repo\\attendence system\\attendence system\\attendence system.csproj",
       "packagesPath": "C:\\Users\\abdo\\.nuget\\packages\\",
-      "outputPath": "D:\\newprocjectattendance\\new-attendance-project-repo\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "outputPath": "D:\\newprocjectattendance\\new-attendance-project-repo\\attendence system\\attendence system\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\abdo\\AppData\\Roaming\\NuGet\\NuGet.Config",

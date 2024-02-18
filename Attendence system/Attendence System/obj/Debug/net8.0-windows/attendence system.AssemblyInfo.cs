@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("attendence")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("attendence system")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4fdfd6517200f8945d07f253db418f69a3920061")]
-[assembly: System.Reflection.AssemblyProductAttribute("attendence")]
-[assembly: System.Reflection.AssemblyTitleAttribute("attendence")]
+[assembly: System.Reflection.AssemblyProductAttribute("attendence system")]
+[assembly: System.Reflection.AssemblyTitleAttribute("attendence system")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]
