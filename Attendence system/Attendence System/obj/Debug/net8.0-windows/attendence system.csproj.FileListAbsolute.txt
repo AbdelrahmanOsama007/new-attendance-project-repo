@@ -15,3 +15,22 @@ D:\newprocjectattendance\new-attendance-project-repo\Attendence system\attendenc
 D:\newprocjectattendance\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\attendence system.pdb
 D:\newprocjectattendance\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\attendence system.genruntimeconfig.cache
 D:\newprocjectattendance\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\ref\attendence system.dll
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\bin\Debug\net8.0-windows\attendence system.exe
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\bin\Debug\net8.0-windows\attendence system.deps.json
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\bin\Debug\net8.0-windows\attendence system.runtimeconfig.json
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\bin\Debug\net8.0-windows\attendence system.dll
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\bin\Debug\net8.0-windows\attendence system.pdb
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\attendence_system.login.resources
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\attendence system.csproj.GenerateResource.cache
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\attendence system.GeneratedMSBuildEditorConfig.editorconfig
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\attendence system.AssemblyInfoInputs.cache
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\attendence system.AssemblyInfo.cs
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\attendence system.csproj.CoreCompileInputs.cache
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\attendence system.sourcelink.json
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\attendence system.dll
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\refint\attendence system.dll
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\attendence system.pdb
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\attendence system.genruntimeconfig.cache
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\ref\attendence system.dll
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\AttendanceManagmentProject.Admin.admin.resources
+H:\ITI-9\AttendanceProject\new-attendance-project-repo\Attendence system\attendence system\obj\Debug\net8.0-windows\attendence_system.Properties.Resources.resources
