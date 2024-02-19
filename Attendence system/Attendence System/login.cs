@@ -1,3 +1,4 @@
+using AttendanceManagmentProject.Admin;
 using System;
 using System.Windows.Forms;
 using System.Xml;
@@ -34,6 +35,12 @@ namespace attendence_system
                 {
                     case "admin":
                         MessageBox.Show("Login Successful as Admin!");
+                        // Hide the current login form
+                        this.Hide();
+                        // Create and show the admin form
+                        admin adminForm = new admin();
+                        adminForm.FormClosed += (s, args) => this.Close(); // Close the login form when the admin form is closed
+                        adminForm.Show();
                         break;
                     case "instructor":
                         MessageBox.Show("Login Successful as Instructor!");
