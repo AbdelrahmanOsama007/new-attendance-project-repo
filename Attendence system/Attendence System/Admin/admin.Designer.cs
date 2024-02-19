@@ -67,6 +67,7 @@
             pictureBox2 = new PictureBox();
             pictureBoxExpand = new PictureBox();
             timerDateAndTime = new System.Windows.Forms.Timer(components);
+            userControlDashboard1 = new attendence_system.Admin.userControl.UserControlDashboard();
             panel1.SuspendLayout();
             panel4.SuspendLayout();
             panel9.SuspendLayout();
@@ -507,8 +508,16 @@
             // timerDateAndTime
             // 
             timerDateAndTime.Tick += timerDateAndTime_Tick_1;
-
-
+            // 
+            // userControlDashboard1
+            // 
+            userControlDashboard1.BackColor = Color.White;
+            userControlDashboard1.Dock = DockStyle.Fill;
+            userControlDashboard1.Font = new Font("Century Gothic", 9.75F);
+            userControlDashboard1.Location = new Point(287, 173);
+            userControlDashboard1.Name = "userControlDashboard1";
+            userControlDashboard1.Size = new Size(1046, 389);
+            userControlDashboard1.TabIndex = 0;
             // 
             // admin
             // 
@@ -516,6 +525,7 @@
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.White;
             ClientSize = new Size(1333, 562);
+            Controls.Add(userControlDashboard1);
             Controls.Add(panelBack);
             Controls.Add(panel1);
             Font = new Font("Century Gothic", 12F);
@@ -594,6 +604,7 @@
         private Button buttonMinimize;
         private Button buttonLogOut;
         private System.Windows.Forms.Timer timerDateAndTime;
+        private attendence_system.Admin.userControl.UserControlDashboard userControlDashboard1;
         //  private System.Windows.Forms.Timer timerDateAndTime;
     }
 }
