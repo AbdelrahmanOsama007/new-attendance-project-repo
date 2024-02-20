@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = attendence_system
-build_property.ProjectDir = D:\newprocjectattendance\new-attendance-project-repo\Attendence system\attendence system\
+build_property.ProjectDir = D:\ITI\Projects\XML&C#\new repo\new-attendance-project-repo\Attendence system\attendence system\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
